@@ -1,0 +1,1 @@
+babel-loader 8 对应的 babel-core版本为：7
